@@ -1,7 +1,7 @@
 # 蓝奏云直链解析
 
 - 接口地址：https://api.hotpe.top/netdisc/lanzou/
-- 返回格式：IMG
+- 返回格式：link
 - 请求方法：GET
 
 
