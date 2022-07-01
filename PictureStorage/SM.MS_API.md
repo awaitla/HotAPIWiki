@@ -3,8 +3,8 @@
 > SM.MS API 封装，匿名调用
 
 - 接口地址：https://api.hotpe.top/pic/smms/upload
-- 返回格式：“图片链接”
-- 请求方法：过去
+- 返回格式：“URL”
+- 请求方法：POST
 
 > 参数：
 >
