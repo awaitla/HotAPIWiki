@@ -1,6 +1,6 @@
 # 蓝奏云直链解析
 
-- 接口地址：https://api.hotpe.top/netdisc/lanzou/
+- 接口地址：https://api-v1-vc.hotpe.top/netdisc/lanzou/
 - 返回格式：link
 - 请求方法：GET
 
@@ -22,11 +22,11 @@
 
 示例代码：
 
-> 不跳转，有密码：https://api.hotpe.top/netdisc/lanzou/?sharelink=https://wwp.lanzouj.com/i4XYC04s853e&pwd=837i&jump=false
+> 不跳转，有密码：https://api-v1-vc.hotpe.top/netdisc/lanzou/?sharelink=https://wwp.lanzouj.com/i4XYC04s853e&pwd=837i&jump=false
 >
-> 跳转（直接下载），带密码：https://api.hotpe.top/netdisc/lanzou/?sharelink=https://wwp.lanzouj.com/i4XYC04s853e&pwd=837i&jump=ture
+> 跳转（直接下载），带密码：https://api-v1-vc.hotpe.top/netdisc/lanzou/?sharelink=https://wwp.lanzouj.com/i4XYC04s853e&pwd=837i&jump=ture
 >
-> 无跳转，无密码：https://api.hotpe.top/netdisc/lanzou/?sharelink=https://magmastudio.lanzoum.com/i1xaDl373sh&pwd=&jump=false
+> 无跳转，无密码：https://api-v1-vc.hotpe.top/netdisc/lanzou/?sharelink=https://magmastudio.lanzoum.com/i1xaDl373sh&pwd=&jump=false
 
 
 
