@@ -42,3 +42,5 @@
 }
 ```
 
+MP3测试:
+<audio controls="" __idm_id__="40961"><source src="https://api-v1-vc.hotpe.top/netdisc/lanzou/?sharelink=https://wwp.lanzouj.com/i4XYC04s853e&pwd=837i&jump=ture" type="audio/mpeg">您的浏览器不支持 audio 元素。</audio>
