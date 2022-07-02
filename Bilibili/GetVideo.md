@@ -6,3 +6,6 @@
 - 示例代码：https://api-v1-vc.hotpe.top/bilibili/video/BV14q4y1V7dW.flv
 
 > 相当于视频直链
+
+视频测试：
+<video controls="" autoplay="" name="media"><source src="https://api-v1-vc.hotpe.top/bilibili/video/BV14q4y1V7dW.flv" type="video/mp4"></video>
