@@ -4,6 +4,7 @@
 
 * 图片
   * [随机图片 - 风景](/RandomPictures/Landscape)
+  * [随机壁纸 - MC](/RandomPictures/mc)
   * [必应每日壁纸](/RandomPictures/bing)
 
 * 图床
